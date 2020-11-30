@@ -11,7 +11,7 @@ import os
 moves = ["F", "B", "L", "R", "U", "D", "f", "b", "l", "r", "u", "d"]
 direction = ["", "'", "2"]
 cube = ["U", "U", "U", "U", "U", "U", "U", "U", "U", "L", "L", "L", "L", "L", "L", "L", "L", "L", "F", "F", "F", "F", "F", "F", "F", "F", "F", "R", "R", "R", "R", "R", "R", "R", "R", "R", "B", "B", "B", "B", "B", "B", "B", "B", "B", "D", "D", "D", "D", "D", "D", "D", "D", "D"]
-PATH = "/Users/florianblanchard/42_works/Rubik/"
+PATH = "/Users/florianblanchard/42_works/myRubik/"
 
 
 def print_verbose(arg, verbose):
